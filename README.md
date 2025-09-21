@@ -8,9 +8,9 @@ Os cuento un poco sobre mi:
 - 😅 Tengo experiencia como dependiente
 
 Si quiere contactar conmigo le dejo:
-Instagram: aitor@trabajo
-Facebok:  aitor@trabajo
-Twitter:  aitor@trabajo
+Instagram: aitor@trabajo;
+Facebok:  aitor@trabajo;
+Twitter:  aitor@trabajo;
 Tlf personal:  12345678
 
   Espero ser lo que busca y gracias por su tiempo al leer esta presentación 😁
