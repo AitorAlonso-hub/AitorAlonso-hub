@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hola soy Aitor👋
 
-<!--
-**AitorAlonso-hub/AitorAlonso-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Ahora mismo estoy haciendo una presentación de Github para el módulo de Entornos de Desarrollo.
+- 🌱 Recientemente estoy estudiando una FP de grado superior de DAW
+- 🤔 Mi próposito es encontrar un tr5abajo con lo que he estudiado en este grado
+- 💬 Sobre mis hobbies: me gustar salir con amigos, ir al gym y los juegos de mesa
+- 📫 Tengo el título de bachiller, tengo un B1/B2 de inglés, me gusta trabajar en equipo, soy muy trabajador y atento, y aunque en un principio me cueste entender lo que me explican una vez que lo entienda lo haré a la perfección.
+- 😅 Tengo experiencia como dependiente
 
-Here are some ideas to get you started:
+Si quiere contactar conmigo le dejo:
+Instagram: aitor@trabajo
+Facebok:  aitor@trabajo
+Twitter:  aitor@trabajo
+Tlf personal:  12345678
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Espero ser lo que busca y gracias por su tiempo al leer esta presentación 😁
+
+  Gracias y un saludo.
