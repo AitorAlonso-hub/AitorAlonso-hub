@@ -4,7 +4,7 @@ Os cuento un poco sobre mi:
 - 🌱 Recientemente estoy estudiando una FP de grado superior de DAW
 - 🤔 Mi próposito es encontrar un tr5abajo con lo que he estudiado en este grado
 - 💬 Sobre mis hobbies: me gustar salir con amigos, ir al gym y los juegos de mesa
-- 📫 Tengo el título de bachiller, tengo un B1/B2 de inglés, me gusta trabajar en equipo, soy muy trabajador y atento, y aunque en un principio me cueste entender lo que me explican una vez que lo entienda lo haré a la perfección.
+- 📫 Tengo el título de bachiller, tengo un B1 (y B2 en listening) de inglés, me gusta trabajar en equipo, soy muy trabajador y atento, y aunque en un principio me cueste entender lo que me explican una vez que lo entienda lo haré a la perfección.
 - 😅 Tengo experiencia como dependiente
 
 Si quiere contactar conmigo le dejo:
