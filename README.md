@@ -1,6 +1,6 @@
 ### Hola soy Aitor👋
-
-Ahora mismo estoy haciendo una presentación de Github para el módulo de Entornos de Desarrollo.
+Os cuento un poco sobre mi:
+- 🐬 Ahora mismo estoy haciendo una presentación de Github para el módulo de Entornos de Desarrollo.
 - 🌱 Recientemente estoy estudiando una FP de grado superior de DAW
 - 🤔 Mi próposito es encontrar un tr5abajo con lo que he estudiado en este grado
 - 💬 Sobre mis hobbies: me gustar salir con amigos, ir al gym y los juegos de mesa
