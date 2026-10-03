@@ -1,18 +1,124 @@
-### Hola soy Aitor👋
-Os cuento un poco sobre mi:
-- 🐬 Ahora mismo estoy haciendo una presentación de Github para el módulo de Entornos de Desarrollo.
-- 🌱 Recientemente estoy estudiando una FP de grado superior de DAW, ya voy por el segundo año
-- 🤔 Mi próposito es encontrar un trabajo con lo que he estudiado en este grado
-- 💬 Sobre mi: me gustan los videojuegos, soy extrovertido (por lo que conecto fácil con la gente) y soy muy detallista tanto que me queda mal sabor de boca si no termino un proyecto como me gustaría.
-- 📫 Tengo el título de bachiller, tengo un B1 (y B2 en listening) de inglés, me gusta trabajar en equipo, soy muy trabajador y atento, y aunque en un principio me cueste entender lo que me explican una vez que lo entienda lo haré a la perfección.
-- 😅 Tengo experiencia como dependiente
+# 👋 Hola, soy Aitor Alonso
 
-Si quiere contactar conmigo le dejo:
-Instagram: aitor@trabajo;
-Facebok:  aitor@trabajo;
-Twitter:  aitor@trabajo;
-Tlf personal:  12345678
+### 💻 Estudiante de Desarrollo de Aplicaciones Web
 
-  Espero ser lo que busca y gracias por su tiempo al leer esta presentación 😁
+¡Bienvenido a mi perfil! Soy **Aitor**, estudiante de **2.º año de FP de Grado Superior en Desarrollo de Aplicaciones Web (DAW)** y actualmente estoy dando mis primeros pasos en el mundo del desarrollo.
 
-  Gracias y un saludo.
+Me considero una persona **trabajadora, detallista y extrovertida**, a la que le gusta aprender y mejorar constantemente.
+
+---
+
+## 🚀 Sobre mí
+
+* 🎓 Estudiante de **2.º año de DAW**
+* 🌱 Actualmente aprendiendo y mejorando mis conocimientos de desarrollo web
+* 💼 Mi objetivo es encontrar una oportunidad laboral relacionada con mis estudios
+* 🎮 Me gustan los videojuegos y la tecnología
+* 🤝 Me gusta trabajar en equipo y conectar fácilmente con otras personas
+* 🔎 Soy una persona muy detallista y me gusta cuidar los proyectos hasta conseguir un buen resultado
+* 💪 Soy trabajador, atento y constante
+* 🧠 Aunque algo pueda costarme al principio, cuando lo entiendo me esfuerzo por hacerlo lo mejor posible
+* 🏪 Tengo experiencia profesional como dependiente
+
+---
+
+## 🛠️ Tecnologías y conocimientos
+
+Actualmente estoy desarrollando mis conocimientos en:
+
+```text
+🌐 Desarrollo Web
+├── HTML
+├── CSS
+├── JavaScript
+└── ...
+
+💻 Programación
+├── ...
+└── ...
+
+🗄️ Bases de datos
+├── ...
+└── ...
+
+🔧 Herramientas
+├── Git
+├── GitHub
+└── ...
+```
+
+> Esta sección irá creciendo a medida que avance en mi formación y en mis proyectos.
+
+---
+
+## 📚 Formación
+
+### 🎓 Desarrollo de Aplicaciones Web — DAW
+
+**FP de Grado Superior**
+
+Actualmente cursando **2.º año**.
+
+También cuento con:
+
+* 🎓 Título de Bachillerato
+* 🇬🇧 Inglés **B1**
+* 🎧 Nivel **B2 en Listening**
+
+---
+
+## 💼 Experiencia
+
+### 🏪 Dependiente
+
+Experiencia trabajando de cara al público, desarrollando habilidades como:
+
+* 🤝 Atención al cliente
+* 🗣️ Comunicación
+* 👥 Trabajo en equipo
+* 🎯 Responsabilidad
+* ⚡ Adaptación a diferentes situaciones
+
+---
+
+## 🎮 Un poco más sobre mí
+
+Fuera del mundo de la programación, me gustan especialmente los **videojuegos** y pasar tiempo con otras personas.
+
+Soy bastante **extrovertido**, por lo que normalmente me resulta fácil conectar con la gente.
+
+También soy muy **detallista**. Cuando hago un proyecto, me gusta dedicarle tiempo para que el resultado final sea algo de lo que pueda estar orgulloso.
+
+---
+
+## 📂 Mis proyectos
+
+Aquí iré publicando proyectos realizados durante mi formación y proyectos personales.
+
+| Proyecto        | Descripción                          |
+| --------------- | ------------------------------------ |
+| 🚧 Próximamente | Estoy trabajando en nuevos proyectos |
+| 🚧 Próximamente | Más proyectos próximamente           |
+
+---
+
+## 📫 Contacto
+
+Si quieres conocer más sobre mis proyectos o contactar conmigo profesionalmente, puedes hacerlo a través de mis perfiles:
+
+* 💻 **GitHub:** [AitorAlonso-Hub](https://github.com/AitorAlonso-Hub)
+* 💼 **LinkedIn:** *Añade aquí tu perfil*
+* 📧 **Email profesional:** *Añade aquí tu email*
+
+---
+
+<div align="center">
+
+### 🚀 Gracias por visitar mi perfil
+
+**Siempre aprendiendo, siempre mejorando.**
+
+⭐ Si alguno de mis proyectos te resulta interesante, ¡no dudes en echarle un vistazo!
+
+</div>
+
