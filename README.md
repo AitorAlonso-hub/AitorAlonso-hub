@@ -22,6 +22,22 @@ Me considero una persona **trabajadora, detallista y extrovertida**, a la que le
 
 ---
 
+## 📊 Mi actividad en GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/crt-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/crt-light.svg">
+    <img
+      alt="Mi actividad en GitHub"
+      src="assets/crt-dark.svg"
+      width="100%"
+    >
+  </picture>
+</p>
+
+---
+
 ## 🛠️ Tecnologías y conocimientos
 
 Actualmente mis conocimientos son:
