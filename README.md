@@ -61,9 +61,6 @@ Lenguajes aprendidos
 └── PHP
 └── ...
 
-
-
-
 🔧 Herramientas
 ├── Git
 ├── GitHub
