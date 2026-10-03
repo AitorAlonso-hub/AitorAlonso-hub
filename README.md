@@ -131,8 +131,8 @@ Aquí iré publicando proyectos realizados durante mi formación y proyectos per
 Si quieres conocer más sobre mis proyectos o contactar conmigo profesionalmente, puedes hacerlo a través de mis perfiles:
 
 * 💻 **GitHub:** [AitorAlonso-Hub](https://github.com/AitorAlonso-Hub)
-* 💼 **LinkedIn:** *Añade aquí tu perfil*
-* 📧 **Email profesional:** *Añade aquí tu email*
+* 💼 **LinkedIn:** ...
+* 📧 **Email profesional:** ...
 
 ---
 
