@@ -27,16 +27,15 @@ Me considero una persona **trabajadora, detallista y extrovertida**, a la que le
 Actualmente mis conocimientos son:
 
 ```text
-🌐 Desarrollo Web
-💻 Programación
+🌐 Desarrollo web en entorno cliente
+🖥️ Desarrollo web en entorno servidor
+🎨 Diseño de interfaces web
+🚀 Despliegue de aplicaciones web
 🗄️ Bases de datos
-Despliegue de aplicaciones web
-Diseño de interfaces Web
-Desarrollo web en entorno cliente
-Desarrollo web en entorno servidor
-Inglés Profesional GS
-Itinerario Personal para la Empleabilidad
-Proyecto Intermodular de Desarrollo de Aplicaciones Web
+💻 Programación
+🇬🇧 Inglés profesional
+💼 Itinerario Personal para la Empleabilidad
+📂 Proyecto Intermodular de Desarrollo de Aplicaciones Web
 
 Lenguajes aprendidos
 ├── HTML
