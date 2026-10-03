@@ -36,19 +36,7 @@ Me considero una persona **trabajadora, detallista y extrovertida**, a la que le
   </picture>
 </p>
 
-</p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AitorAlonso-Hub/AitorAlonso-Hub/output/breakout-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AitorAlonso-Hub/AitorAlonso-Hub/output/breakout-contribution-graph.svg">
-    <img
-      alt="Breakout contribution graph"
-      src="https://raw.githubusercontent.com/AitorAlonso-Hub/AitorAlonso-Hub/output/breakout-contribution-graph.svg"
-      width="100%"
-    >
-  </picture>
-</p>
 
 
 ---
@@ -154,6 +142,20 @@ Si quieres conocer más sobre mis proyectos o contactar conmigo profesionalmente
 <div align="center">
 
 ### 🚀 Gracias por visitar mi perfil
+
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AitorAlonso-Hub/AitorAlonso-Hub/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AitorAlonso-Hub/AitorAlonso-Hub/output/breakout-contribution-graph.svg">
+    <img
+      alt="Breakout contribution graph"
+      src="https://raw.githubusercontent.com/AitorAlonso-Hub/AitorAlonso-Hub/output/breakout-contribution-graph.svg"
+      width="100%"
+    >
+  </picture>
+</p>
 
 **Siempre aprendiendo, siempre mejorando.**
 
