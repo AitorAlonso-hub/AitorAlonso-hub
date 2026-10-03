@@ -17,5 +17,5 @@ jobs:
         uses: stefashkaa/github-profile-crt@v1
         with:
           output-dir: assets
-          themes: crt,rainbow,winamp
+          themes: rainbow
           github-user: AitorAlonso-Hub
