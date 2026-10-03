@@ -24,26 +24,38 @@ Me considero una persona **trabajadora, detallista y extrovertida**, a la que le
 
 ## 🛠️ Tecnologías y conocimientos
 
-Actualmente estoy desarrollando mis conocimientos en:
+Actualmente mis conocimientos son:
 
 ```text
 🌐 Desarrollo Web
+💻 Programación
+🗄️ Bases de datos
+Despliegue de aplicaciones web
+Diseño de interfaces Web
+Desarrollo web en entorno cliente
+Desarrollo web en entorno servidor
+Inglés Profesional GS
+Itinerario Personal para la Empleabilidad
+Proyecto Intermodular de Desarrollo de Aplicaciones Web
+
+Lenguajes aprendidos
 ├── HTML
 ├── CSS
 ├── JavaScript
+└── Python
+└── PHP
 └── ...
 
-💻 Programación
-├── ...
-└── ...
 
-🗄️ Bases de datos
-├── ...
-└── ...
+
 
 🔧 Herramientas
 ├── Git
 ├── GitHub
+└── Oracle
+└── Visual Studio Code (VSC)
+└── Pycharm
+└── XAMPP
 └── ...
 ```
 
