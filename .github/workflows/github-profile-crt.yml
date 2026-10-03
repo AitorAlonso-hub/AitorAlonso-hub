@@ -1,0 +1,25 @@
+name: Generate CRT Profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 10 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate CRT
+        uses: stefashkaa/github-profile-crt@v1
+        with:
+          github-user: AitorAlonso-Hub
+          output-dir: assets
+          themes: crt
+          show-grid: true
+          show-stats: true
+          show-stats-footer: true
+          minify-svg: true
