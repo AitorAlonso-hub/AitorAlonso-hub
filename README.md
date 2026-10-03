@@ -26,14 +26,16 @@ Me considero una persona **trabajadora, detallista y extrovertida**, a la que le
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/crt-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/crt-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/rainbow-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/rainbow-light.svg">
     <img
       alt="Mi actividad en GitHub"
-      src="assets/crt-dark.svg"
+      src="assets/rainbow-dark.svg"
       width="100%"
     >
   </picture>
+</p>
+
 </p>
 
 ---
