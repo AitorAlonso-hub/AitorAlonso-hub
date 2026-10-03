@@ -64,7 +64,7 @@ Lenguajes aprendidos
 └── PHP
 └── ...
 
-🔧 Herramientas
+🔧 Herramientas aprendidas
 ├── Git
 ├── GitHub
 └── Oracle
